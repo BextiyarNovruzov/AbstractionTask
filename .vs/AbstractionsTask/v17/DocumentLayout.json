@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|c:\\users\\bexti\\source\\repos\\abstractionstask\\abstractionstask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|solutionrelative:abstractionstask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|c:\\users\\bexti\\source\\repos\\abstractionstask\\abstractionstask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|solutionrelative:abstractionstask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|c:\\users\\bexti\\source\\repos\\abstractionstask\\abstractionstask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|solutionrelative:abstractionstask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|c:\\users\\bexti\\source\\repos\\abstractionstask\\abstractionstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|solutionrelative:abstractionstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|c:\\users\\bexti\\source\\repos\\abstractionstask\\abstractionstask\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67AF8A1-45DA-472F-963A-F441E3E5F148}|AbstractionsTask\\AbstractionsTask.csproj|solutionrelative:abstractionstask\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Group.cs",
+              "RelativeDocumentMoniker": "AbstractionsTask\\Group.cs",
+              "ToolTip": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Group.cs",
+              "RelativeToolTip": "AbstractionsTask\\Group.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:22:08.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Student.cs",
+              "RelativeDocumentMoniker": "AbstractionsTask\\Student.cs",
+              "ToolTip": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Student.cs",
+              "RelativeToolTip": "AbstractionsTask\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:15:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\User.cs",
+              "RelativeDocumentMoniker": "AbstractionsTask\\User.cs",
+              "ToolTip": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\User.cs",
+              "RelativeToolTip": "AbstractionsTask\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:24:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Interfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "AbstractionsTask\\Interfaces\\IAccount.cs",
+              "ToolTip": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Interfaces\\IAccount.cs",
+              "RelativeToolTip": "AbstractionsTask\\Interfaces\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:22:13.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionsTask\\Program.cs",
+              "ToolTip": "C:\\Users\\bexti\\source\\repos\\AbstractionsTask\\AbstractionsTask\\Program.cs",
+              "RelativeToolTip": "AbstractionsTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:20:27.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
